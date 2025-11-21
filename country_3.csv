@@ -1,0 +1,231 @@
+Country,CID
+Afghanistan,Af0
+Albania,Al1
+Algeria,Al2
+American Samoa,Am3
+Angola,An4
+Antarctica,An5
+Antigua and Barbuda,An6
+Argentina,Ar7
+Armenia,Ar8
+Aruba,Ar9
+Australia,Au10
+Austria,Au11
+Azerbaijan,Az12
+Bahrain,Ba13
+Bangladesh,Ba14
+Barbados,Ba15
+Belarus,Be16
+Belgium,Be17
+Belize,Be18
+Benin,Be19
+Bermuda,Be20
+Bhutan,Bh21
+Bolivia,Bo22
+Bosnia and Herzegovina,Bo23
+Botswana,Bo24
+Brazil,Br25
+British Virgin Islands,Br26
+Brunei,Br27
+Bulgaria,Bu28
+Burkina Faso,Bu29
+Burma,Bu30
+Burundi,Bu31
+Cabo Verde,Ca32
+Cambodia,Ca33
+Cameroon,Ca34
+Canada,Ca35
+Cayman Islands,Ca36
+Central African Republic,Ce37
+Chad,Ch38
+Chile,Ch39
+China,Ch40
+Colombia,Co41
+Comoros,Co42
+Congo-Brazzaville,Co43
+Congo-Kinshasa,Co44
+Cook Islands,Co45
+Costa Rica,Co46
+Cote d'Ivoire,Co47
+Croatia,Cr48
+Cuba,Cu49
+Cyprus,Cy50
+Czechia,Cz51
+Denmark,De52
+Djibouti,Dj53
+Dominica,Do54
+Dominican Republic,Do55
+Ecuador,Ec56
+Egypt,Eg57
+El Salvador,El58
+Equatorial Guinea,Eq59
+Eritrea,Er60
+Estonia,Es61
+Eswatini,Es62
+Ethiopia,Et63
+Falkland Islands,Fa64
+Faroe Islands,Fa65
+Fiji,Fi66
+Finland,Fi67
+Former Czechoslovakia,Fo68
+Former Serbia and Montenegro,Fo69
+Former U.S.S.R.,Fo70
+Former Yugoslavia,Fo71
+France,Fr72
+French Guiana,Fr73
+French Polynesia,Fr74
+Gabon,Ga75
+"Gambia, The",Ga76
+Georgia,Ge77
+Germany,Ge78
+"Germany, East",Ge79
+"Germany, West",Ge80
+Ghana,Gh81
+Gibraltar,Gi82
+Greece,Gr83
+Greenland,Gr84
+Grenada,Gr85
+Guadeloupe,Gu86
+Guam,Gu87
+Guatemala,Gu88
+Guinea,Gu89
+Guinea-Bissau,Gu90
+Guyana,Gu91
+Haiti,Ha92
+Hawaiian Trade Zone,Ha93
+Honduras,Ho94
+Hong Kong,Ho95
+Hungary,Hu96
+Iceland,Ic97
+India,In98
+Indonesia,In99
+Iran,Ir100
+Iraq,Ir101
+Ireland,Ir102
+Israel,Is103
+Italy,It104
+Jamaica,Ja105
+Japan,Ja106
+Jordan,Jo107
+Kazakhstan,Ka108
+Kenya,Ke109
+Kiribati,Ki110
+Kosovo,Ko111
+Kuwait,Ku112
+Kyrgyzstan,Ky113
+Laos,La114
+Latvia,La115
+Lebanon,Le116
+Lesotho,Le117
+Liberia,Li118
+Libya,Li119
+Lithuania,Li120
+Luxembourg,Lu121
+Macau,Ma122
+Madagascar,Ma123
+Malawi,Ma124
+Malaysia,Ma125
+Maldives,Ma126
+Mali,Ma127
+Malta,Ma128
+Martinique,Ma129
+Mauritania,Ma130
+Mauritius,Ma131
+Mexico,Me132
+Micronesia,Mi133
+Moldova,Mo134
+Mongolia,Mo135
+Montenegro,Mo136
+Montserrat,Mo137
+Morocco,Mo138
+Mozambique,Mo139
+Namibia,Na140
+Nauru,Na141
+Nepal,Ne142
+Netherlands,Ne143
+Netherlands Antilles,Ne144
+New Caledonia,Ne145
+New Zealand,Ne146
+Nicaragua,Ni147
+Niger,Ni148
+Nigeria,Ni149
+Niue,Ni150
+North Korea,No151
+North Macedonia,No152
+Northern Mariana Islands,No153
+Norway,No154
+Oman,Om155
+Pakistan,Pa156
+Palestinian Territories,Pa157
+Panama,Pa158
+Papua New Guinea,Pa159
+Paraguay,Pa160
+Peru,Pe161
+Philippines,Ph162
+Poland,Po163
+Portugal,Po164
+Puerto Rico,Pu165
+Qatar,Qa166
+Reunion,Re167
+Romania,Ro168
+Russia,Ru169
+Rwanda,Rw170
+Saint Helena,Sa171
+Saint Kitts and Nevis,Sa172
+Saint Lucia,Sa173
+Saint Pierre and Miquelon,Sa174
+Saint Vincent/Grenadines,Sa175
+Samoa,Sa176
+Sao Tome and Principe,Sa177
+Saudi Arabia,Sa178
+Senegal,Se179
+Serbia,Se180
+Seychelles,Se181
+Sierra Leone,Si182
+Singapore,Si183
+Slovakia,Sl184
+Slovenia,Sl185
+Solomon Islands,So186
+Somalia,So187
+South Africa,So188
+South Korea,So189
+South Sudan,So190
+Spain,Sp191
+Sri Lanka,Sr192
+Sudan,Su193
+Suriname,Su194
+Sweden,Sw195
+Switzerland,Sw196
+Syria,Sy197
+Taiwan,Ta198
+Tajikistan,Ta199
+Tanzania,Ta200
+Thailand,Th201
+The Bahamas,Th202
+Timor-Leste,Ti203
+Togo,To204
+Tonga,To205
+Trinidad and Tobago,Tr206
+Tunisia,Tu207
+Turkiye,Tu208
+Turkmenistan,Tu209
+Turks and Caicos Islands,Tu210
+Tuvalu,Tu211
+U.S. Pacific Islands,U.212
+U.S. Territories,U.213
+U.S. Virgin Islands,U.214
+Uganda,Ug215
+Ukraine,Uk216
+United Arab Emirates,Un217
+United Kingdom,Un218
+United States,Un219
+Uruguay,Ur220
+Uzbekistan,Uz221
+Vanuatu,Va222
+Venezuela,Ve223
+Vietnam,Vi224
+Wake Island,Wa225
+Western Sahara,We226
+Yemen,Ye227
+Zambia,Za228
+Zimbabwe,Zi229
